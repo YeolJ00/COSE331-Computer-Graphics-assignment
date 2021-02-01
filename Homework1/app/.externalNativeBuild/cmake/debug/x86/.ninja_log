@@ -1,0 +1,25 @@
+# ninja log v5
+54	6386	0	CMakeFiles/native-lib.dir/src/main/cpp/shader.cpp.o	7198857d641d2e7d
+67	6401	0	CMakeFiles/native-lib.dir/src/main/cpp/light.cpp.o	220e743065a47664
+100	6402	0	CMakeFiles/native-lib.dir/src/main/cpp/material.cpp.o	717ccc069a890de6
+19	6404	0	CMakeFiles/native-lib.dir/src/main/cpp/asset.cpp.o	16f8b40ff7ca7233
+83	6406	0	CMakeFiles/native-lib.dir/src/main/cpp/main.cpp.o	b96905a8f8ad16e5
+107	6411	0	CMakeFiles/native-lib.dir/src/main/cpp/program.cpp.o	7bd6fd0006499aac
+73	6413	0	CMakeFiles/native-lib.dir/src/main/cpp/camera.cpp.o	444be5ed668de76b
+2	6438	0	CMakeFiles/native-lib.dir/src/main/cpp/object.cpp.o	d9fea878d8716184
+3	1056	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	22a6e94daeb746ee
+1056	1354	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90c167299c83b987
+9	2007	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	22a6e94daeb746ee
+2007	2282	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90c167299c83b987
+3	1813	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	22a6e94daeb746ee
+1813	3012	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90c167299c83b987
+4	1406	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	22a6e94daeb746ee
+1407	1640	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90c167299c83b987
+5	1416	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	22a6e94daeb746ee
+1416	1656	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90c167299c83b987
+3	1210	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	22a6e94daeb746ee
+1210	1420	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90c167299c83b987
+5	1207	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	22a6e94daeb746ee
+1207	1315	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90c167299c83b987
+4	1214	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	22a6e94daeb746ee
+1214	1347	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90c167299c83b987

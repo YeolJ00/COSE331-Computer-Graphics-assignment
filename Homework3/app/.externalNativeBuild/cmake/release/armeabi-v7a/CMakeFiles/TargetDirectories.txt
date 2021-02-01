@@ -1,0 +1,3 @@
+C:/Users/User/source/repos/yeolj00_graphics_android_studio/Homework3/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/native-lib.dir
+C:/Users/User/source/repos/yeolj00_graphics_android_studio/Homework3/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/User/source/repos/yeolj00_graphics_android_studio/Homework3/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,4 @@
 # COSE331_Computer_Graphics_assignment
 COSE331 computer graphics assignment
 
-Korea Univ. Prf. Han
+Korea Univ. Prof. Han
